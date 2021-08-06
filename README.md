@@ -1,0 +1,1 @@
+Some simple JavaScript problems and solving practice.
