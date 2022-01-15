@@ -1,9 +1,9 @@
 //calculate BMI
 
-const massAsif = 77;
-const hightAsif = 1.67;
-const massShakib = 85;
-const hightShakib = 1.71;
+const massAsif = 78;
+const hightAsif = 1.69;
+const massShakib = 92;
+const hightShakib = 1.95;
 
 const BMIAsif = massAsif / hightAsif ** 2;
 // const BMIShakib = massShakib / hightShakib ** 2;
