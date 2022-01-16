@@ -7,4 +7,4 @@ const hightJohn = 1.76;
 
 const BMIMark = massMark / hightMark ** 2;
 const BMIJohn = massJohn / (hightJohn * hightJohn);
-console.log(BMIMark);
+console.log(BMIMark, BMIJohn);
