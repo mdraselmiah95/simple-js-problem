@@ -29,9 +29,9 @@ const scoreKoalas = (109 + 95 + 50) / 3;
 
 console.log(scoreDolphins, scoreKoalas);
 
-if (scoreDolphins > scoreKoalas) {
+if (scoreDolphins > scoreKoalas && scoreDolphins >= 100) {
   console.log("Dolphin win the trophy 🏅");
-} else if (scoreKoalas > scoreDolphins) {
+} else if (scoreKoalas > scoreDolphins && scoreKoalas >= 100) {
   console.log("Koalas win the trophy ✨");
 } else if (scoreDolphins === scoreKoalas) {
   console.log("Both win the trophy 🧶");
